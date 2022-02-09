@@ -21,6 +21,7 @@ This repository consist of material and resources for interviews and generally k
 
 # Interviews resources
 
+
 > [100+ Data Science Interview Questions You Must Prepare for 2022](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/#statistics)
 
 > [Top 50 Data Science Interview Questions and Answers (2022)](https://www.guru99.com/data-science-interview-questions.html)
