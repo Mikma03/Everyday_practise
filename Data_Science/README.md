@@ -1,15 +1,10 @@
-
-# Everyday practise - Data Science, Machine Learning, Database Management, Programming (Python, Julia, JS + HTML + CSS, )
-
-<p>&nbsp;</p>
-
 # Table of contents
 
 <p>&nbsp;</p>
 
 1. [Introduction](#Introduction)
 
-2. [Interviews resources](#Interviews-resources)
+2. [Data Science](#Data-Science)
 
 <p>&nbsp;</p>
 
@@ -19,8 +14,7 @@ This repository consist of material and resources for interviews and generally k
 
 <p>&nbsp;</p>
 
-# Interviews resources
-## Data Science
+# Data Science
 
 > [100+ Data Science Interview Questions You Must Prepare for 2022](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/#statistics)
 <p>&nbsp;</p>
@@ -47,28 +41,3 @@ This repository consist of material and resources for interviews and generally k
 
 
 <p>&nbsp;</p>
-
-## Python
-
-
-> [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/#freshers)
-
-<p>&nbsp;</p>
-
-> [Top 100+ Python Interview Questions You Must Prepare In 2022](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
-
-<p>&nbsp;</p>
-
-> [Python Interview Questions and Answers in 2022](https://www.mygreatlearning.com/blog/python-interview-questions/)
-
-<p>&nbsp;</p>
-
-> [Top 100 Python Interview Questions in 2022](https://intellipaat.com/blog/interview-question/python-interview-questions/)
-
-<p>&nbsp;</p>
-
-> [42 Real-time Python Interview Questions and Answers [2022]](https://geekflare.com/top-python-interview-questions/)
-
-<p>&nbsp;</p>
-
-> [50 Top Python Interview Questions and Answers](https://hackr.io/blog/python-interview-questions)
