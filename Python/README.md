@@ -21,10 +21,6 @@
 
 <p>&nbsp;</p>
 
-> [Python Interview Questions and Answers in 2022](https://www.mygreatlearning.com/blog/python-interview-questions/)
-
-<p>&nbsp;</p>
-
 > [Top 100 Python Interview Questions in 2022](https://intellipaat.com/blog/interview-question/python-interview-questions/)
 
 <p>&nbsp;</p>
