@@ -1,5 +1,5 @@
 
-# Python part
+# Python
 
 <p>&nbsp;</p>
 
@@ -12,6 +12,14 @@
 2. [Interviews resources](#Interviews-resources)
 
 <p>&nbsp;</p>
+
+
+# Introduction
+
+Materials for interviews in Python. Part of the following links are regarding to DataScience or statistics.
+
+<p>&nbsp;</p>
+
 
 > [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/#freshers)
 

@@ -1,3 +1,5 @@
+
+#############################################################################
 # tuples and lists
 
 my_tuple = ('sara', 6, 5, 0.97)
@@ -9,20 +11,19 @@ my_list[0] = 'ansh'    # modifying list => list modified
 print(my_tuple[0])     # output => 'sara'
 print(my_list[0])     # output => 'ansh'
 
-
-
 #############################################################################
-
+# function
 def myEmptyFunc():
    # do nothing
    pass
+
 myEmptyFunc()    # nothing happens
 ## Without the pass keyword
 # File "<stdin>", line 3
 # IndentationError: expected an indented block
 
-
-
+#############################################################################
+# for loop
 pat = [1, 3, 2, 1, 2, 3, 1, 0, 1, 3]
 for p in pat:
    pass
