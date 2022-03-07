@@ -11,15 +11,20 @@
 
 2. [Interviews resources](#Interviews-resources)
 
+2. [Python SpeedSheet](#Python-SpeedSheet)
+
 <p>&nbsp;</p>
 
 
 # Introduction
 
-Materials for interviews in Python. Part of the following links are regarding to DataScience or statistics.
+Materials for interviews in Python.
 
 <p>&nbsp;</p>
 
+# Interviews resources
+
+<p>&nbsp;</p>
 
 - Python Interview Questions
 
@@ -48,3 +53,12 @@ Materials for interviews in Python. Part of the following links are regarding to
 - 50 Top Python Interview Questions and Answers
 
     - https://hackr.io/blog/python-interview-questions
+
+
+<p>&nbsp;</p>
+
+# Python SpeedSheet
+
+<p>&nbsp;</p>
+
+https://speedsheet.io/
