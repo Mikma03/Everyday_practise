@@ -2,11 +2,11 @@
 
 <p>&nbsp;</p>
 
-1. [Introduction](#Introduction)
+- [Introduction](#Introduction)
 
-2. [Data Science](#Data-Science)
+- [Data Science](#Data-Science)
 
-3. 
+ 
 
 <p>&nbsp;</p>
 
