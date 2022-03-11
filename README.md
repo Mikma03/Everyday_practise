@@ -1,5 +1,5 @@
 
-# Everyday practise - Data Science, Machine Learning, Database Management, Programming (Python, Julia, JS + HTML + CSS, )
+# Everyday practise - Data Science, Machine Learning, Database Management, Programming (Python, Julia, JS + HTML + CSS), Cloud.
 
 <p>&nbsp;</p>
 
@@ -7,15 +7,15 @@
 
 <p>&nbsp;</p>
 
-1. [Introduction](#Introduction)
+- [Introduction](#Introduction)
 
-2. [Interviews resources](#Interviews-resources)
+- [Interviews resources](#Interviews-resources)
 
-    2.1. [Data Science](#data-science)
+    - [Data Science](#data-science)
 
-    2.2. [Python](#python)
+    - [Python](#python)
 
-3. [Practise Python](#Practise-Python)
+- [Practise Python](#Practise-Python)
 
 <p>&nbsp;</p>
 

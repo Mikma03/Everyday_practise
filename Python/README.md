@@ -7,11 +7,13 @@
 
 <p>&nbsp;</p>
 
-1. [Introduction](#Introduction)
+- [Introduction](#Introduction)
 
-2. [Interviews resources](#Interviews-resources)
+- [Interviews resources](#Interviews-resources)
 
-2. [Python SpeedSheet](#Python-SpeedSheet)
+- [Python SpeedSheet](#Python-SpeedSheet)
+
+- [Python 3 Module of the Week](#python-3-module-of-the-week)
 
 <p>&nbsp;</p>
 
@@ -62,3 +64,7 @@ Materials for interviews in Python.
 <p>&nbsp;</p>
 
 https://speedsheet.io/
+
+# Python 3 Module of the Week
+
+https://pymotw.com/3/#
