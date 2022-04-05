@@ -15,12 +15,19 @@
 
 - [Python 3 Module of the Week](#python-3-module-of-the-week)
 
+- [Python practise exercise](#python-practise-exercise)
+
+- [Python Data Structure](#python-data-structure)
+
+- [Python API's](#python-apis)
+
+
 <p>&nbsp;</p>
 
 
 # Introduction
 
-Materials for interviews in Python.
+test
 
 <p>&nbsp;</p>
 
@@ -67,10 +74,15 @@ https://speedsheet.io/
 
 # Python 3 Module of the Week
 
+<p>&nbsp;</p>
+
 https://pymotw.com
 
+<p>&nbsp;</p>
 
 # Python practise exercise
+
+<p>&nbsp;</p>
 
 - w3resource
     - https://www.w3resource.com/python-exercises/python-functions-exercises.php
@@ -86,3 +98,18 @@ https://pymotw.com
 
 - Codewars
     - https://www.codewars.com/dashboard
+
+- HackerRank
+    - https://www.hackerrank.com/domains/python
+# Python Data Structure
+
+- Data Structure
+    - https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+# Python API's
+
+- APIs for Beginners
+    - https://www.youtube.com/watch?v=GZvSYJDk-us&t=3143s&ab_channel=freeCodeCamp.org
+
+- Python API Development
+    - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=80s&ab_channel=freeCodeCamp.org

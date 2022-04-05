@@ -4,7 +4,7 @@
 
 - [Introduction](#Introduction)
 
-- [Data Science](#Data-Science)
+- [Data Science Interviews](#Data-Science-Interviews)
 
  
 
@@ -12,11 +12,11 @@
 
 # Introduction
 
-This repository consist of material and resources for interviews and generally keep practising things.
+This repository consist of material and resources for interviews for Data Scientist.
 
 <p>&nbsp;</p>
 
-# Data Science
+# Data Science Interviews
 
 - 100+ Data Science Interview Questions You Must Prepare for 2022
 

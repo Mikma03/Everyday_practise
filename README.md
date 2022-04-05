@@ -108,12 +108,37 @@ This repository consist of material and resources for interviews and generally k
 
 <p>&nbsp;</p>
 
-- Python Exercises, Practice, Solution
+- w3resource
+    - https://www.w3resource.com/python-exercises/python-functions-exercises.php
 
-    - https://www.w3resource.com/python-exercises/
+- PyNative
+    - https://pynative.com/python-exercises-with-solutions/
+
+- Advanced Python Tutorials
+    - https://realpython.com/tutorials/advanced/page/1/
+
+- Python Exercises
+    - https://www.pythonprogramming.net/
+
+- Codewars
+    - https://www.codewars.com/dashboard
+
+- HackerRank
+    - https://www.hackerrank.com/domains/python
 
 <p>&nbsp;</p>
 
-- Practice Python Exercises and Challenges with Solutions
+# Python Data Structure
 
-    - https://pynative.com/python-exercises-with-solutions/
+- Data Structure
+    - https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+<p>&nbsp;</p>
+
+# Python API's
+
+- APIs for Beginners
+    - https://www.youtube.com/watch?v=GZvSYJDk-us&t=3143s&ab_channel=freeCodeCamp.org
+
+- Python API Development
+    - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=80s&ab_channel=freeCodeCamp.org
