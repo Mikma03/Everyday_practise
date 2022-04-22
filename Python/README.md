@@ -27,9 +27,6 @@
 
 # Introduction
 
-test
-
-<p>&nbsp;</p>
 
 # Interviews resources
 

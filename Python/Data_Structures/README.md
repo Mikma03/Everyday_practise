@@ -14,3 +14,7 @@ test
 
 - Data Structure course - FrreCodeCamp
     - https://jovian.ai/learn/data-structures-and-algorithms-in-python
+
+start:
+
+https://youtu.be/pkYVOmU3MgA?t=9211
