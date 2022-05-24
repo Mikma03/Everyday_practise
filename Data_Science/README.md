@@ -2,9 +2,13 @@
 
 <p>&nbsp;</p>
 
-- [Introduction](#Introduction)
+<!-- TOC -->
 
-- [Data Science Interviews](#Data-Science-Interviews)
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Data Science Interviews](#data-science-interviews)
+
+<!-- /TOC -->
 
  
 
@@ -47,12 +51,4 @@ This repository consist of material and resources for interviews for Data Scient
 - Data-science-interview-questions-and-answers
 
     - https://github.com/iamtodor/data-science-interview-questions-and-answers
-<p>&nbsp;</p>
 
-
-- Interview Prep
-
-    - https://www.youtube.com/watch?v=mlumJPFvooQlist=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
-
-
-<p>&nbsp;</p>

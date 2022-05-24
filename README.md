@@ -1,5 +1,5 @@
 
-# Everyday practise - Data Science, Machine Learning, Database Management, Programming (Python, Julia, JS + HTML + CSS), Cloud.
+# Everyday practise
 
 <p>&nbsp;</p>
 
@@ -7,15 +7,20 @@
 
 <p>&nbsp;</p>
 
-- [Introduction](#Introduction)
+<!-- TOC -->
 
-- [Interviews resources](#Interviews-resources)
+- [Everyday practise](#everyday-practise)
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Interviews resources](#interviews-resources)
+- [Data Science](#data-science)
+- [Python](#python)
+- [Practise Python](#practise-python)
+- [Python Data Structure](#python-data-structure)
+- [Python API's](#python-apis)
+- [Python Interview Questions To Challenge Your Knowledge](#python-interview-questions-to-challenge-your-knowledge)
 
-    - [Data Science](#data-science)
-
-    - [Python](#python)
-
-- [Practise Python](#Practise-Python)
+<!-- /TOC -->
 
 <p>&nbsp;</p>
 
@@ -26,7 +31,8 @@ This repository consist of material and resources for interviews and generally k
 <p>&nbsp;</p>
 
 # Interviews resources
-## Data Science
+
+# Data Science
 
 <p>&nbsp;</p>
 
@@ -56,11 +62,6 @@ This repository consist of material and resources for interviews and generally k
 
 <p>&nbsp;</p>
 
-- Data-science-interview-questions-and-answers
-
-    - https://github.com/iamtodor/data-science-interview-questions-and-answers
-<p>&nbsp;</p>
-
 
 - Interview Prep
 
@@ -69,7 +70,7 @@ This repository consist of material and resources for interviews and generally k
 
 <p>&nbsp;</p>
 
-## Python
+# Python
 
 <p>&nbsp;</p>
 
@@ -108,7 +109,7 @@ This repository consist of material and resources for interviews and generally k
 
 <p>&nbsp;</p>
 
-- w3resource
+- W3resource
     - https://www.w3resource.com/python-exercises/python-functions-exercises.php
 
 - PyNative
@@ -120,11 +121,11 @@ This repository consist of material and resources for interviews and generally k
 - Python Exercises
     - https://www.pythonprogramming.net/
 
-- Codewars
-    - https://www.codewars.com/dashboard
-
 - HackerRank
     - https://www.hackerrank.com/domains/python
+
+- Letcode
+    - https://leetcode.com/problemset/all/
 
 <p>&nbsp;</p>
 
@@ -142,3 +143,12 @@ This repository consist of material and resources for interviews and generally k
 
 - Python API Development
     - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=80s&ab_channel=freeCodeCamp.org
+
+- Postman Beginner's Course - API Testing
+    - https://www.youtube.com/watch?v=VywxIQ2ZXw4&ab_channel=freeCodeCamp.org
+
+- Build a Django REST API with the Django Rest Framework
+    - https://www.youtube.com/watch?v=c708Nf0cHrs
+
+# 20 Python Interview Questions To Challenge Your Knowledge
+- https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5

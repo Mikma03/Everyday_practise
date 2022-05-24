@@ -7,19 +7,20 @@
 
 <p>&nbsp;</p>
 
-- [Introduction](#Introduction)
+<!-- TOC -->
 
-- [Interviews resources](#Interviews-resources)
-
-- [Python SpeedSheet](#Python-SpeedSheet)
-
+- [Python](#python)
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Interviews resources](#interviews-resources)
+- [Python SpeedSheet](#python-speedsheet)
 - [Python 3 Module of the Week](#python-3-module-of-the-week)
-
 - [Python practise exercise](#python-practise-exercise)
-
 - [Python Data Structure](#python-data-structure)
-
 - [Python API's](#python-apis)
+- [Python Interview Questions To Challenge Your Knowledge](#python-interview-questions-to-challenge-your-knowledge)
+
+<!-- /TOC -->
 
 
 <p>&nbsp;</p>
@@ -63,6 +64,9 @@
 
 <p>&nbsp;</p>
 
+- Python Programming Interview Questions
+    - https://data-flair.training/blogs/python-programming-interview-questions/
+
 # Python SpeedSheet
 
 <p>&nbsp;</p>
@@ -103,6 +107,8 @@ https://pymotw.com
 - Data Structure
     - https://jovian.ai/learn/data-structures-and-algorithms-in-python
 
+    - https://www.youtube.com/watch?v=pkYVOmU3MgA&t=19010s&ab_channel=freeCodeCamp.org
+
 # Python API's
 
 - APIs for Beginners
@@ -110,3 +116,13 @@ https://pymotw.com
 
 - Python API Development
     - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=80s&ab_channel=freeCodeCamp.org
+
+- Postman Beginner's Course - API Testing
+    - https://www.youtube.com/watch?v=VywxIQ2ZXw4&ab_channel=freeCodeCamp.org
+
+- Build a Django REST API with the Django Rest Framework
+    - https://www.youtube.com/watch?v=c708Nf0cHrs
+
+
+# 20 Python Interview Questions To Challenge Your Knowledge
+- https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5
