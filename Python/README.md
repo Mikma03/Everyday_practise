@@ -1,17 +1,6 @@
 
-# Python
-
-<p>&nbsp;</p>
-
-# Table of contents
-
-<p>&nbsp;</p>
-
 <!-- TOC -->
 
-- [Python](#python)
-- [Table of contents](#table-of-contents)
-- [Introduction](#introduction)
 - [Interviews resources](#interviews-resources)
 - [Python SpeedSheet](#python-speedsheet)
 - [Python 3 Module of the Week](#python-3-module-of-the-week)
@@ -21,13 +10,6 @@
 - [Python Interview Questions To Challenge Your Knowledge](#python-interview-questions-to-challenge-your-knowledge)
 
 <!-- /TOC -->
-
-
-<p>&nbsp;</p>
-
-
-# Introduction
-
 
 # Interviews resources
 
@@ -102,6 +84,10 @@ https://pymotw.com
 
 - HackerRank
     - https://www.hackerrank.com/domains/python
+
+- Letcode
+    - https://leetcode.com/problemset/all/
+
 # Python Data Structure
 
 - Data Structure

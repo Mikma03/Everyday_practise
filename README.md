@@ -1,18 +1,8 @@
 
-# Everyday practise
-
-<p>&nbsp;</p>
-
-# Table of contents
-
-<p>&nbsp;</p>
 
 <!-- TOC -->
 
 - [Everyday practise](#everyday-practise)
-- [Table of contents](#table-of-contents)
-- [Introduction](#introduction)
-- [Interviews resources](#interviews-resources)
 - [Data Science](#data-science)
 - [Python](#python)
 - [Practise Python](#practise-python)
@@ -22,15 +12,10 @@
 
 <!-- /TOC -->
 
-<p>&nbsp;</p>
-
-# Introduction
+# Everyday practise
 
 This repository consist of material and resources for interviews and generally keep practisinf things.
 
-<p>&nbsp;</p>
-
-# Interviews resources
 
 # Data Science
 
